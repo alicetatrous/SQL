@@ -1,3 +1,5 @@
+# For this project I worked on a dataset named "chinook", which depicts a digital media store. This dataset comprises tables containing information about artists, albums, media tracks, invoices, and customers.
+
 #1. Show Customers (their full names, customer ID, and country) who are not in the US. 
 SELECT FirstName, LastName, CustomerId, Country 
 FROM chinook.customers 
